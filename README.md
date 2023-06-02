@@ -13,7 +13,8 @@ The Clementi Forest consists of 85 hectares of secondary forest that has spontan
        title="Clementi Forest 2021"
        attribution="Angela Ricasio Hoten">
 
-
+## Commodity Periphery for Colonial Trade
+We begin where most of Singapore’s historical records begin - the colonial history of the land. According to historian Richard Corlett, the first plantation crops cultivated in Singapore in the 19th century were gambier and pepper.[^2] However, reduced prices for gambier in the late 1850s and 1860s led to a decline in the cultivation of this cash crop and led to the introduction of other crops, the most important being rubber which had the most significant impact on Singapore’s landscape in the first half of the twentieth century.[^3] Rubber was first planted on a commercial scale in 1903, as demand increased the cultivation of rubber increased, leading to over 40% of the total land area dedicated to rubber plantations making British Malaya the  world’s largest supplier of natural rubber for most of the twentieth century.[^4] According to Lim, the land now known as the Clementi Forest was also a rubber plantation from the 1920s to the 1940s.[^5] A 2012 NUS Research study indicated that rubber trees were recorded in the highest frequency in the Clementi Forest.[^6] The forest's colonial history remains integrated into the unique ecology of the Clementi Forest. After 1935, cultivation of rubber declined sharply across Singapore; historians estimate that most of the rubber plantations were abandoned during World War II and not reestablished thereafter.[^7] The Clementi Forest as a previous site for rubber plantation is an example of its place as a commodity periphery in a global mass production network of rubber for the purposes of British Malayan trade.[^8]
 
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
@@ -24,3 +25,10 @@ You can find the wikidata IDs by searching for proper nouns [here](https://www.w
 # References
 
 [^1]: The Nature Society, 2013:5 
+[^2]: Corlett 1992:413
+[^3]: Corlett 1992:413
+[^4]: Corlett 1992:413, Lim 2017:142
+[^5]: Lim, 2017:142-143
+[^6]: Neo et al.2012:2
+[^7]: Lew, [1965]; Shepherd & Shepherd, [1968] cited in Neo et al., [2012:2]
+[^8]: Lim  2017:142
