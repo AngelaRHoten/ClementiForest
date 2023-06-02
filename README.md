@@ -8,8 +8,10 @@ For reference, first open the [Juncture user guide](https://github.com/JSTOR-Lab
 
 ## Introduction to the Clementi Forest
 The Clementi Forest consists of 85 hectares of secondary forest that has spontaneously afforested over the last thirty to forty years. It is bounded roughly by King Albert Park, Clementi Road, Old Holland-Ulu Pandan Road and the main former railway line. It contains natural streams and has an uncanalised portion of a freshwater stream flowing through the forest, providing important micro-habitats for aquatic and semi-aquatic wildlife.[^1]
-
-
+<param ve-image 
+       url="Media/IMG_B7672E2C1916-1.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten">
 
 
 
