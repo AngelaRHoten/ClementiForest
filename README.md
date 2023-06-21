@@ -34,23 +34,7 @@ Unlike the historical capitalist endeavors of the British in the early colonial 
 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_1.jpeg"
-       title="Clementi Forest 2021"
-       attribution="Angela Ricasio Hoten"
-       curtain="true"
-       fit="contain"
-       ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_2.jpeg"
-       title="Clementi Forest 2021"
-       attribution="Angela Ricasio Hoten"
-       fit="contain"
-       ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_3.jpeg"
-       title="Clementi Forest 2021"
-       attribution="Angela Ricasio Hoten"
-       fit="contain"
-       ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_4.jpeg"
-       title="Clementi Forest 2021"
+       title="Remnants of a Kampong, Clementi Forest 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
