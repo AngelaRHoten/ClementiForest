@@ -17,7 +17,8 @@ We begin where most of Singapore’s historical records begin - the colonial his
        title="Different Parts of the Rubber Seed, Clementi Forest 2023"
        attribution="Andrea Danielle">
 
-## Multispecies 
+## Multispecies Living
+Post-World War II, the land that occupied the rubber plantations was abandoned. 
 Historian Eisen Teo reflects on the communities that emerged on the fringes of the Clementi Forest in the post-war years.[^13]
 
 In the post-war years, urbanization and the reclamation of nature saw the co-existence of a traditional Malaysian/Singaporean kampong village setting and a boys’ town (remand school for troubled youths) located on the fringes of the Clementi Forest. The original rubber planter owner did not return after World War II to reclaim his land and the Clementi Forest remained untouched for fifty years, with the Malayan Railway running through it. In the post-war years, the kampong villages here co-existed with nature (secondary forests) and beasts (leopard cats, estuary crocodiles and so on). Individuals had access to the Forest and wildlife wandered into the villages. Some residents of Clementi Road ventured freely into the Forest to catch fish, while the Singapore–Malaysian railway ran through its interior. 
