@@ -9,7 +9,7 @@ The Clementi Forest consists of 85 hectares of secondary forest that have sponta
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/IMG_B7672E2C1916-1.jpeg"
        title="Clementi Forest 2021"
        attribution="Angela Ricasio Hoten"
-       cover=true>
+       fit = "contain">
 
 ## Plantation Beginnings
 <param ve-map center="1.35, 103.9" zoom="2">
