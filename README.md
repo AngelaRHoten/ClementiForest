@@ -13,7 +13,7 @@ The Clementi Forest consists of 85 hectares of secondary forest that have sponta
 
 ## Plantation Beginnings
 <param ve-image 
-       url="https://github.com/AngelaRHoten/ClementiForest/blob/eb23687767b9c1afe7df8a301fb39a725989a4bd/Media/Rubber_Seeds_1.JPG"
+       url="Media/Rubber_Seeds_1.JPG"
        title="Different Parts of the Rubber Seed, Clementi Forest 2023"
        attribution="Andrea Danielle"
        curtain="true">
