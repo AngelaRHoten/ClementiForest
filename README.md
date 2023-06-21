@@ -19,8 +19,10 @@ We begin where most of Singapore’s historical records begin - the colonial his
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
+       
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Rubber_Seeds_2.JPG"
+       curtain="true"
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
