@@ -19,24 +19,19 @@ We begin where most of Singapore’s historical records begin - the colonial his
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
-       <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Rubber_Seeds_2.JPG"
-       title="Rubber Seeds in the Clementi Forest, 2023"
-       attribution="Andrea Danielle"
-       fit="contain">
        
 ## Multispecies Living
 Post-World War II, the rubber plantations were abandoned by their owners, and the land was left to fallow. In the years that followed, different species moved into the recently abandoned land, including but not limited to leopard cats, sea almond seeds, and people. Historian Eisen Teo reflects on the multispecies communities that emerged on the fringes of the Clementi Forest in the post-war years.[^13]
-
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kam.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
 *In the post-war years, urbanization and the reclamation of nature saw the co-existence of a traditional Malaysian/Singaporean kampong village setting and a boys’ town (remand school for troubled youths) located on the fringes of the Clementi Forest. The original rubber planter owner did not return after World War II to reclaim his land and the Clementi Forest remained untouched for fifty years, with the Malayan Railway running through it. In the post-war years, the kampong villages here co-existed with nature (secondary forests) and beasts (leopard cats, estuary crocodiles and so on). Individuals had access to the Forest and wildlife wandered into the villages. Some residents of Clementi Road ventured freely into the Forest to catch fish, while the Singapore–Malaysian railway ran through its interior.* 
 
 Unlike the historical capitalist endeavors of the British in the early colonial period or the hyper-industrialization projects of Independent Singapore that were soon to emerge, the kampong histories of the Clementi Forest reflect a different kind of human-non-human relationship of co-existence and intimacy. 
 
-<param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_1.jpeg"
-       title="Remnants of a Kampong, Clementi Forest 2023"
-       attribution="Angela Ricasio Hoten"
-       fit="contain">
+
        
 ## Railway Operations
 Beyond the material resourcing that Singapore’s land provided for the British, Singapore also acted as a key distribution and collection point for British Malaya as well as for the wider region. As early as 1903, the British were interested in building Singapore’s railway system to facilitate the burgeoning import/export trade.[^9] Post World War II, the rubber plantations located in the area of the Clementi Forest were abandoned and became part of the site of the Jurong Railway Line that was run by Malayan Railways, also known as the Keretapi Tanah Melayuh (KTM). The Jurong Railway Line operated as a freight route used to connect the coastal warehouses at the Jurong Industrial Estate back to the mainline in Bukit Timah.[^10] Old photographs of the Clementi tunnel, depict an almost entirely barren land that was stripped of its previous history as a rubber plantation. The initial intention of the railway line was to connect the industrial estate with Malaya and facilitate the flow of raw materials that contributed to the economic development of Singapore in the 1960s.[^11] Construction of the line took place between 1963 and November 1965 and was officially opened in 1966. It was projected that two to three million tons of cargo would have been moved per year on this railway. However, after the separation of Singapore from Malaysia, the Malaysian government announced proposals to stop the train services in Singapore in the late 1970s.[^12]
