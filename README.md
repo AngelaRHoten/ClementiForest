@@ -30,7 +30,25 @@ Post-World War II, the rubber plantations were abandoned by their owners, and th
        
 *In the post-war years, urbanization and the reclamation of nature saw the co-existence of a traditional Malaysian/Singaporean kampong village setting and a boys’ town (remand school for troubled youths) located on the fringes of the Clementi Forest. The original rubber planter owner did not return after World War II to reclaim his land and the Clementi Forest remained untouched for fifty years, with the Malayan Railway running through it. In the post-war years, the kampong villages here co-existed with nature (secondary forests) and beasts (leopard cats, estuary crocodiles and so on). Individuals had access to the Forest and wildlife wandered into the villages. Some residents of Clementi Road ventured freely into the Forest to catch fish, while the Singapore–Malaysian railway ran through its interior.* 
 
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_2.JPG"
+       title="Remnants of a Kampong, Clementi Forest 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+
 Unlike the historical capitalist endeavors of the British in the early colonial period or the hyper-industrialization projects of Independent Singapore that were soon to emerge, the kampong histories of the Clementi Forest reflect a different kind of human-non-human relationship of co-existence and intimacy. 
+
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_3.JPG"
+       title="Remnants of a Kampong, Clementi Forest 2023"
+       curtain="true"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_4.JPG"
+       title="Remnants of a Kampong, Clementi Forest 2023"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
 
 
        
