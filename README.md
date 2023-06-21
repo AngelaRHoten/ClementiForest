@@ -32,6 +32,28 @@ Post-World War II, the rubber plantations were abandoned by their owners, and th
 
 Unlike the historical capitalist endeavors of the British in the early colonial period or the hyper-industrialization projects of Independent Singapore that were soon to emerge, the kampong histories of the Clementi Forest reflect a different kind of human-non-human relationship of co-existence and intimacy. 
 
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_1.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten"
+       curtain="true"
+       fit="contain"
+       ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_2.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"
+       ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_3.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten"
+       fit="contain"
+       ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_4.jpeg"
+       title="Clementi Forest 2021"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+       
 ## Railway Operations
 Beyond the material resourcing that Singapore’s land provided for the British, Singapore also acted as a key distribution and collection point for British Malaya as well as for the wider region. As early as 1903, the British were interested in building Singapore’s railway system to facilitate the burgeoning import/export trade.[^9] Post World War II, the rubber plantations located in the area of the Clementi Forest were abandoned and became part of the site of the Jurong Railway Line that was run by Malayan Railways, also known as the Keretapi Tanah Melayuh (KTM). The Jurong Railway Line operated as a freight route used to connect the coastal warehouses at the Jurong Industrial Estate back to the mainline in Bukit Timah.[^10] Old photographs of the Clementi tunnel, depict an almost entirely barren land that was stripped of its previous history as a rubber plantation. The initial intention of the railway line was to connect the industrial estate with Malaya and facilitate the flow of raw materials that contributed to the economic development of Singapore in the 1960s.[^11] Construction of the line took place between 1963 and November 1965 and was officially opened in 1966. It was projected that two to three million tons of cargo would have been moved per year on this railway. However, after the separation of Singapore from Malaysia, the Malaysian government announced proposals to stop the train services in Singapore in the late 1970s.[^12]
 
