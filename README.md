@@ -4,7 +4,6 @@
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
 
-## Introduction to the Clementi Forest
 The Clementi Forest consists of 85 hectares of secondary forest that have spontaneously afforested over the last thirty to forty years. It is bounded roughly by King Albert Park, Clementi Road, Old Holland-Ulu Pandan Road, and the main former railway line. Within it, a freshwater stream flows through the forest, providing important micro-habitats for aquatic and semi-aquatic wildlife.[^1] The Clementi Forest is still a relatively young secondary forest, but the land from which it emerged holds a long history from plantations to railways to stalemates, all of which have contributed in some way to the ecological makeup and formation of the Clementi Forest. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/IMG_B7672E2C1916-1.jpeg"
