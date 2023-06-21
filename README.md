@@ -23,8 +23,8 @@ We begin where most of Singapore’s historical records begin - the colonial his
 ## Multispecies Living
 Post-World War II, the rubber plantations were abandoned by their owners, and the land was left to fallow. In the years that followed, different species moved into the recently abandoned land, including but not limited to leopard cats, sea almond seeds, and people. Historian Eisen Teo reflects on the multispecies communities that emerged on the fringes of the Clementi Forest in the post-war years.[^13]
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kam.jpeg"
-       title="Clementi Forest 2021"
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_1.jpeg"
+       title="Remnants of a Kampong, Clementi Forest 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
 *In the post-war years, urbanization and the reclamation of nature saw the co-existence of a traditional Malaysian/Singaporean kampong village setting and a boys’ town (remand school for troubled youths) located on the fringes of the Clementi Forest. The original rubber planter owner did not return after World War II to reclaim his land and the Clementi Forest remained untouched for fifty years, with the Malayan Railway running through it. In the post-war years, the kampong villages here co-existed with nature (secondary forests) and beasts (leopard cats, estuary crocodiles and so on). Individuals had access to the Forest and wildlife wandered into the villages. Some residents of Clementi Road ventured freely into the Forest to catch fish, while the Singapore–Malaysian railway ran through its interior.* 
