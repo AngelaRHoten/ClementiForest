@@ -1,7 +1,7 @@
 <param ve-config 
        title="Clementi Forest"
        author="Angela Ricasio Hoten"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       banner="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Temple_1.JPG"
        layout="vertical">
 
        
@@ -118,6 +118,7 @@ The Clementi Forest has existed as a backdrop to significant historical and cult
 
 ## Possibilities at the Edge of Extinction  
 The Clementi Forest has begun to emerge as a thriving ecosystem, home to native and non-native species alike. However, in 2020 the Urban Redevelopment Authority released its Master Plan for the next 10 to 15 years in the Clementi Area, the area that was demarcated informally as the Clementi Forest was slated for redevelopment, which would ultimately lead to the deforestation of this young forest. An online petition was released to the public that advocated for the protection of the Clementi Forest from urbanization. It was able to collect over [20 000 signatures](https://www.change.org/p/urban-redevelopment-authority-of-singapore-protect-clementi-forest-from-urbanisation) thanks to the work of individual advocates as well as the Nature Society of Singapore, and successfully held off the destruction of the Clementi Forest for the next ten years. Some remain critically hopeful of the potential for long-term conservation of the Clementi Forest given the continued authority held by the State to determine the use of land. However, it appears that the public attention and investment into the conservation of the Clementi Forest over the last two years since the petition has altered the considerations that government agencies are taking into account when they consider deforesting spaces for development. 
+
 
 # References
 
