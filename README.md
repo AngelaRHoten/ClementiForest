@@ -1,7 +1,7 @@
 <param ve-config 
        title="Clementi Forest"
        author="Angela Ricasio Hoten"
-       banner="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Temple_1.JPG"
+       banner="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Clementi Forest 3.jpg"
        layout="vertical">
 
        
