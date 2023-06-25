@@ -43,7 +43,7 @@ Post-World War II, the rubber plantations were abandoned by their owners, and th
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_2.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
-       attribution="Angela Ricasio Hoten"
+       attribution="Andrea Danielle"
        fit="contain">
 
 Unlike the historical capitalist endeavors of the British in the early colonial period or the hyper-industrialization projects of Independent Singapore that were soon to emerge, the kampong histories of the Clementi Forest reflect a different kind of human-non-human relationship of co-existence and intimacy. 
@@ -52,12 +52,12 @@ Unlike the historical capitalist endeavors of the British in the early colonial 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_3.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
        curtain="true"
-       attribution="Angela Ricasio Hoten"
+       attribution="Andrea Danielle"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_4.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
-       attribution="Angela Ricasio Hoten"
+       attribution="Andrea Danielle"
        fit="contain">
 
 
