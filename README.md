@@ -139,22 +139,22 @@ The Clementi Forest has begun to emerge as a thriving ecosystem, home to native 
 
 # References
 
-[^1]: The Nature Society, 2013:5 
-[^2]: Corlett 1992:413
-[^3]: Corlett 1992:413
-[^4]: Corlett 1992:413, Lim 2017:142
-[^5]: Lim, 2017:142-143
-[^6]: Neo et al.2012:2
+[^1]: The Nature Society (Singapore), “Feedback on the Updated URA Master Plan,” December 19, 2013:5
+[^2]: Richard T Corlett, “The Ecological Transformation of Singapore, 18191990,” Journal of Biogeography 19, no. 4 (1992): 413, https://doi.org/10.2307/2845569.
+[^3]: Richard T Corlett, “The Ecological Transformation of Singapore, 18191990,” Journal of Biogeography 19, no. 4 (1992): 413, https://doi.org/10.2307/2845569.
+[^4]: Richard T Corlett, “The Ecological Transformation of Singapore, 18191990,” Journal of Biogeography 19, no. 4 (1992): 413, https://doi.org/10.2307/2845569.; Tai Wei Lim, Cultural Heritage and Peripheral Spaces in Singapore (Palgrave Macmillan, 2018):142.
+[^5]: Tai Wei Lim, Cultural Heritage and Peripheral Spaces in Singapore (Palgrave Macmillan, 2018):142-143
+[^6]: Louise Neo et al., “THE VASCULAR PLANT FLORA of ABANDONED PLANTATIONS in SINGAPORE I: CLEMENTI FOREST,” January 1, 2012:2
 [^7]: Lew, [1965]; Shepherd & Shepherd, [1968] cited in Neo et al., [2012:2]
-[^8]: Lim  2017:142
-[^9]: Lim 2017: pg 155
-[^10]: Teo, E. 2020:15
-[^11]: Teo, E. 2020:15
-[^12]: Teo, E. 2020:15
-[^13]: Teo, E. 2020
-[^14]: Lim, T. W, 2017; Teo, E. 2019:25
-[^15]: Teo, E. 2019:26
-[^16]: Neo et al., 2012
-[^17]: Neo et al., 2012
-[^18]: Neo et al., 2012
-[^19]: The Nature Society, 2013:5
+[^8]: Tai Wei Lim, Cultural Heritage and Peripheral Spaces in Singapore (Palgrave Macmillan, 2018):142
+[^9]: Tai Wei Lim, Cultural Heritage and Peripheral Spaces in Singapore (Palgrave Macmillan, 2018):155
+[^10]: Eisen Teo, Jalan Singapura: 700 Years of Movement in Singapore (Singapore: Marshall Cavendish Editions, 2019):15
+[^11]: Eisen Teo, Jalan Singapura: 700 Years of Movement in Singapore (Singapore: Marshall Cavendish Editions, 2019):15
+[^12]: Eisen Teo, Jalan Singapura: 700 Years of Movement in Singapore (Singapore: Marshall Cavendish Editions, 2019):15
+[^13]: Eisen Teo, Jalan Singapura: 700 Years of Movement in Singapore (Singapore: Marshall Cavendish Editions, 2019):15
+[^14]: Tai Wei Lim, Cultural Heritage and Peripheral Spaces in Singapore (Palgrave Macmillan, 2018):142; Teo, E. 2019:25
+[^15]: Eisen Teo, Jalan Singapura: 700 Years of Movement in Singapore (Singapore: Marshall Cavendish Editions, 2019):26
+[^16]: Louise Neo et al., “THE VASCULAR PLANT FLORA of ABANDONED PLANTATIONS in SINGAPORE I: CLEMENTI FOREST,” January 1, 2012:4
+[^17]: Louise Neo et al., “THE VASCULAR PLANT FLORA of ABANDONED PLANTATIONS in SINGAPORE I: CLEMENTI FOREST,” January 1, 2012:4
+[^18]: Louise Neo et al., “THE VASCULAR PLANT FLORA of ABANDONED PLANTATIONS in SINGAPORE I: CLEMENTI FOREST,” January 1, 2012:4
+[^19]: The Nature Society (Singapore), “Feedback on the Updated URA Master Plan,” December 19, 2013:5
