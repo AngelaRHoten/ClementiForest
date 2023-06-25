@@ -7,6 +7,7 @@
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/IMG_B7672E2C1916-1.jpeg"
        title="Clementi Forest 2021"
+       curtain="true"
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
        
