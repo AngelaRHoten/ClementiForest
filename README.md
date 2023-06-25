@@ -79,7 +79,32 @@ Beyond the material resourcing that Singapore’s land provided for the British,
 
 ## The Stalemate 
 The railway eventually ceased operations in the 1990s but still remained leased to the KTM under the [Singapore Railway Transfer Ordinance 1918](https://eresources.nlb.gov.sg/infopedia/articles/SIP_954_2005-01-10.html), which leased the land that occupied the railway line for 999 years.[^14] After ceasing operations in the 1990s, the KTM removed most of its tracks leaving some of its rusty tracks and the now Clementi tunnel as physical memories of a short-lived industrial dream which are now quintessential parts of the Clementi Forest. In the years that followed, the 217 hectares of KMT land became a site of bargaining power and self-determination. On 27 November 1990, Singapore’s Prime Minister Lee Kuan Yew and Malaysia’s Finance Minister Daim Zainuddine signed a landmark Points of Agreement (POA), however, both countries could not come to an agreement on the terms of the POA until 2010 where agreement was made that gave over the land to Singapore.[^15] During the thirty-year stalemate, a young secondary forest spontaneously emerged that was uniquely adapted to the abandoned railway infrastructure. Alongside parts of the abandoned railway are fences that elevate the soil creating small streams where water gets trapped during heavy rain and makes the Clementi Forest an especially muddy hike for those who attempt it. 
-
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 5.jpg"
+       title="Remnants of a Railway, Clementi Forest 2023"
+       curtain="true"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 3.jpg"
+       title="Remnants of a Railway, Clementi Forest 2022"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 1.jpg"
+       title="Remnants of a Railway, Clementi Forest 2022"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 2.jpg"
+       title="Remnants of a Railway, Clementi Forest 2022"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
+<param ve-image 
+       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 4.jpg"
+       title="Remnants of a Railway, Clementi Forest 2022"
+       attribution="Angela Ricasio Hoten"
+       fit="contain">
 
 ## Emerging Ecosystems
 The Clementi Forest has existed as a backdrop to significant historical and cultural changes in Singapore and have been, in the past, a reflection of the land use histories of the country whose land facilitated the rise of colonial Singapore and subsequently independent Singapore. And yet, as the forest was left alone, it emerged as a budding ecosystem that led to the forest becoming an important site for ecological services. Advocates of this forest have argued for conservation on the basis of preserving biodiversity and providing forest patches for wildlife. A 2012 study by NUS found 98 vascular plants, including a terrestrial orchid, _<span eid="Q5184241">Dienia ophrydis</span>_, that had been previously counted as extinct in Singapore [^16] 90 bird species, resident and migratory were also recorded, this is approximately one-fifth of the bird species recorded in Singapore. Among these, 13 threatened or rare species including the _<span eid="Q780707">Straw-headed bulbul</span>_ which are endangered on a national and global level.[^17] The Singapore Nature Society also recorded 9 mammals, 11 reptiles, including the Clouded Monitor; 8 amphibians, including the Copper-cheeked and the Malayan Giant Frog, both typical forest species; and 6 freshwater fish species. 48 species of butterflies are also recorded so far, 18 of which are uncommon and 13 are forest-dependent such as the Common Birdwing (RDB species), Common Roase (RDB Species), Blue Nawab and Commander among others.[^18]
