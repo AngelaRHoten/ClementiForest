@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Clementi Forest"
+       title="Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
        author="Angela Ricasio Hoten"
        banner="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Temple_1.JPG"
        layout="vertical">
