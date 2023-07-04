@@ -13,7 +13,7 @@ The Clementi Forest consists of 85 hectares of secondary forest that have sponta
        attribution="Angela Ricasio Hoten"
        fit="contain"> 
        
-## Plantation Beginnings
+# Plantation Beginnings
 We begin where most of Singapore’s historical records begin - the colonial history of the land. According to historian Richard Corlett, the first plantation crops cultivated in Singapore in the 19th century were [Gambier, _<span eid="Q910384">Uncaria gambier</span>_, and pepper](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/#fn:6).[^2] However, reduced prices for gambier in the late 1850s and 1860s led to a decline in the cultivation of this cash crop and led to the introduction of other crops, the most important being rubber, _<span eid="Q156538">Hevea brasiliensis</span>_ which had the most significant impact on Singapore’s landscape in the first half of the twentieth century.[^3] Rubber was first planted on a commercial scale in 1903, as demand increased the cultivation of rubber increased, leading to over 40% of Singapore's total land area dedicated to rubber plantations making British Malaya the world’s largest supplier of natural rubber for most of the twentieth century.[^4] This, of course, meant that most of Singapore's forests had been cleared to make way for this monoculture crop. According to scholar and researcher Lim Tai Wei, the land that we now know as the Clementi Forest was also a rubber plantation from the 1920s to the 1940s.[^5] A 2012 NUS Research study affirms this finding: the study indicated that rubber trees were recorded at the highest frequency in the Clementi Forest, evidence of the land's colonial history.[^6] After the mid-1940s, the cultivation of rubber declined sharply across Singapore; historians estimate that most of the rubber plantations were abandoned during World War II and not reestablished thereafter, so it is likely that the rubber plantation that occupied the land of the Clementi Forest was abandoned.[^7] The abundance of rubber trees in the Clementi Forest serves as a reminder of Singapore's participation as a commodity periphery in the global mass production network of rubber for the purposes of British Malayan trade in the nineteenth to the twentieth century.[^8] 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Rubber_Seeds_1.JPG"
@@ -27,7 +27,7 @@ We begin where most of Singapore’s historical records begin - the colonial his
        attribution="Andrea Danielle"
        fit="contain">
        
-## Moving In 
+# Moving In 
 Post-World War II, the rubber plantations were abandoned by their owners, and the land was left to fallow. In the years that followed, different species moved into the recently abandoned land, including but not limited to leopard cats, sea almond trees, and people. Historian Eisen Teo reflects on the multispecies communities that emerged on the fringes of the Clementi Forest in the post-war years:
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Temple_1.JPG"
@@ -64,7 +64,7 @@ Unlike the historical capitalist endeavors of the British in the early colonial 
 
 
        
-## Railway Operations
+# Railway Operations
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/NAS Jurong Train.jpg"
        label="Railway Tunnel"
@@ -91,7 +91,7 @@ Beyond the material resourcing that Singapore’s land provided for the British,
        attribution="Eisen Teo"
        fit="contain">
 
-## The Stalemate 
+# The Stalemate 
 The railway eventually ceased operations in the 1990s but still remained leased to the KTM under the [Singapore Railway Transfer Ordinance 1918](https://eresources.nlb.gov.sg/infopedia/articles/SIP_954_2005-01-10.html), which leased the land that occupied the railway line for 999 years.[^14] After ceasing operations in the 1990s, the KTM removed most of its tracks leaving some of its rusty tracks and the Clementi tunnel as physical memories of a short-lived industrial dream, which are now quintessential parts of the Clementi Forest. In the years that followed, the 217 hectares of KMT land became a site of bargaining power and self-determination. On 27 November 1990, Singapore’s Prime Minister Lee Kuan Yew and Malaysia’s Finance Minister Daim Zainuddine signed a landmark Points of Agreement (POA), however, both countries could not come to an agreement on the terms of the POA until 2010 where agreement was made that gave over the land to Singapore.[^15] During the thirty-year stalemate, a young secondary forest spontaneously emerged that was uniquely adapted to the abandoned railway infrastructure. Alongside parts of the abandoned railway are fences that elevate the soil creating small streams where water gets trapped during heavy rain and, making the Clementi Forest an especially muddy hike for those who attempt it. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Railway Remnants 5.jpg"
@@ -120,7 +120,7 @@ The railway eventually ceased operations in the 1990s but still remained leased 
        attribution="Angela Ricasio Hoten"
        fit="contain">
 
-## Emerging Ecosystems
+# Emerging Ecosystems
 The Clementi Forest has existed as a backdrop to significant historical and cultural changes in Singapore and has been, in the past, a reflection of the land use histories of the country whose land facilitated the rise of colonial Singapore and subsequently independent Singapore. And yet, as the forest was left alone, it emerged as a budding ecosystem that led to the forest becoming an important site for different species both native and non-native. Advocates of this forest have argued for conservation on the basis of preserving biodiversity and providing forest patches for wildlife. A 2012 study by NUS found 98 vascular plants, 43 of which are non-native species[^16]. Among the native plants found in the Clementi Forest, the terrestrial orchid, _<span eid="Q5184241">Dienia ophrydis</span>_, which had been previously thought to be extinct in Singapore was found growing in the Clementi Forest. [^17] 90 bird species, resident and migratory were also recorded, this is approximately one-fifth of the bird species recorded in Singapore. Among these, 13 threatened or rare species were recorded including [the _<span eid="Q780707">Straw-headed bulbul</span>_](https://singaporebirds.com/species/straw-headed-bulbul/) which is endangered on a national and global level.[^18] The Singapore Nature Society also recorded 9 mammals, 11 reptiles, including the Clouded Monitor; 8 amphibians, including the [Copper-cheeked](https://www.nparks.gov.sg/florafaunaweb/fauna/8/7/879) and the [Malayan Giant Frog](https://www.ecologyasia.com/verts/amphibians/malayan_giant_frog.htm), both typical forest species; and 6 freshwater fish species. 48 species of butterflies are also recorded so far, 18 of which are uncommon and 13 are forest-dependent such as the <span eid="Q2189311">Common Birdwing</span>, [Common Rose](https://www.nparks.gov.sg/florafaunaweb/fauna/3/2/327) and [Blue Nawab](http://www.butterflycircle.com/checklist/showbutterfly/40) among others.[^19]
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/GreenCrestedLizard_Clementi Forest.JPG"
@@ -129,7 +129,7 @@ The Clementi Forest has existed as a backdrop to significant historical and cult
        attribution="Andrea Danielle"
        fit="contain">
 
-## Possibilities at the Edge of Extinction  
+# Possibilities at the Edge of Extinction  
 The Clementi Forest has begun to emerge as a thriving ecosystem, home to native and non-native species alike. However, in 2020 the Urban Redevelopment Authority released its Master Plan for the next 10 to 15 years in the Clementi Area. The area that was demarcated informally as the Clementi Forest was slated for redevelopment, which would ultimately lead to the deforestation of this young forest. An online petition was released to the public that advocated for the protection of the Clementi Forest from urbanization. It was able to collect over [20 000 signatures](https://www.change.org/p/urban-redevelopment-authority-of-singapore-protect-clementi-forest-from-urbanisation) thanks to the work of individual advocates as well as the Nature Society of Singapore, and successfully held off the destruction of the Clementi Forest for the next ten years. Some remain critically hopeful of the potential for long-term conservation of the Clementi Forest given the continued authority held by the State to determine the use of land. However, it appears that the public attention and investment into the conservation of the Clementi Forest over the last two years since the petition has altered the environmental and social considerations that government agencies are taking into account when they consider deforesting spaces for development. 
 <param ve-image 
        url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Clementi Forest 4.jpg"
