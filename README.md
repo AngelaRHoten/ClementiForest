@@ -26,7 +26,7 @@ We begin where most of Singapore’s historical records begin - the colonial his
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
-       
+     
 # Moving In 
 Post-World War II, the rubber plantations were abandoned by their owners, and the land was left to fallow. In the years that followed, different species moved into the recently abandoned land, including but not limited to leopard cats, sea almond trees, and people. Historian Eisen Teo reflects on the multispecies communities that emerged on the fringes of the Clementi Forest in the post-war years:
 <param ve-image 
